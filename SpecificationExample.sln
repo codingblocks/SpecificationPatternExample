@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecificationExample", "SpecificationExample\SpecificationExample.csproj", "{D6016DD4-3DA2-4DE0-A16B-8DDF93AB163D}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Patterns", "..\Patterns\Patterns\Patterns.shproj", "{FC531B9D-D4DA-4CD4-887F-1649A8A38B61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6016DD4-3DA2-4DE0-A16B-8DDF93AB163D}.Debug|x86.ActiveCfg = Debug|x86
+		{D6016DD4-3DA2-4DE0-A16B-8DDF93AB163D}.Debug|x86.Build.0 = Debug|x86
+		{D6016DD4-3DA2-4DE0-A16B-8DDF93AB163D}.Release|x86.ActiveCfg = Release|x86
+		{D6016DD4-3DA2-4DE0-A16B-8DDF93AB163D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
